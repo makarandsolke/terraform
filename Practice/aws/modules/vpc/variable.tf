@@ -5,8 +5,8 @@ variable "aws_region" {
 variable "secrets" {
 	type = map
 	default = {
-		access_key 	= "AKIA6ANKNACDPJJLNGTI"
-		secrets_key	= "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"
+		access_key 	= "<access_key>"
+		secrets_key	= "<secret_key>"
 	}
 }
 
